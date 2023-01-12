@@ -1,4 +1,4 @@
-![mittermproject image](./assets/bannerasd.jpg)
+![learn-with-vivi-final-project-ironhack image](./assets/banner-learn-with-vivi.png)
 > Hola 👋 Soy Agus!. </br>
 > Desarrolle una web para clases de ingles impartidas por mi tía Viviana. El nombre de la web es Learn with Vivi
 > Veamos de que se trata el proyecto en mas detalle 🧐
