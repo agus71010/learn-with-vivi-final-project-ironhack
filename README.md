@@ -2,10 +2,9 @@
 > Hola 👋 Soy Agus!. </br>
 > Desarrolle una web para clases de ingles impartidas por mi tía Viviana. El nombre de la web es Learn with Vivi
 > Veamos de que se trata el proyecto en mas detalle 🧐
-## Cómo funciona
-:
-![mittermproject image](./assets/classdiagram.png)
-![mittermproject image](./assets/usecase.png)
+## Cómo funciona:
+![learn-with-vivi-final-project-ironhack image](./assets/diagramas-learn-with-vivi.png)
+
 So... as any other banking services app, this one allows the users to have their own accounts (in the image above you can distinguish the different account types),
 make money transfers and earn interests from the savings and checking accounts in case they have them. </br> </br>
 Lets now take a look on the methods that allows us to execute these actions: </br>
